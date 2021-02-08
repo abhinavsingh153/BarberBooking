@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661868282889",
+    "project_id": "barber-booking-f1130",
+    "storage_bucket": "barber-booking-f1130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661868282889:android:9048aeabe564aecb7324d8",
+        "android_client_info": {
+          "package_name": "com.example.barberbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661868282889-7202hbk8cjtf5ue0rjt43u8kjanf9gct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzg0Eu3bqajYPp1NeyiJT_VRy7KQgmNQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661868282889-7202hbk8cjtf5ue0rjt43u8kjanf9gct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
